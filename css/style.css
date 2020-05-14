@@ -99,7 +99,7 @@ background-position: center top;
   
     position: absolute;
   transform: translate(-50%, -50%);
-     bottom: 270px;
+     top: 400px;
      left: calc(50% );
      cursor: pointer;
     /*   width: 50px;
